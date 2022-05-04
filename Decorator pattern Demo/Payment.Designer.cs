@@ -97,6 +97,7 @@
             this.Controls.Add(this.lbtotalCost);
             this.Controls.Add(this.label2);
             this.Name = "Payment";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Payment";
             this.ResumeLayout(false);
             this.PerformLayout();
